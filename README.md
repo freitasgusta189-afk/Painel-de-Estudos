@@ -19,4 +19,7 @@ Gerenciador de Estudos em HTML, CSS e JavaScript
 
 🛠️ Tecnologias:
 
+
 HTML | CSS | JavaScript | Chart.js | localStorage
+
+freitasgusta189-afk.github.io/Painel-de-Estudos/
